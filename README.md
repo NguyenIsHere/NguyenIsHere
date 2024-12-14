@@ -1,26 +1,14 @@
-<!-- # NguyenIsHere.github.io
-My Profile
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenIsHere&show_icons=true&theme=dracula)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&theme=onedark)](https://github.com/NguyenIsHere/github-profile-trophy) -->
-
-
 # Hi, I'm NguyenIsHere! 
 
-I'm currently interning for a NodeJS backend position, want to learn more about Devops .
+👋 I'm Nguyen, a third-year Software Engineering student at the University of Information Technology in Ho Chi Minh City, Vietnam. I'm passionate about UI/UX, API design, and building efficient systems.
 
-- I'm currently working on Nodejs (Express, NestJS), Java (Spring Boot), Python...
+- I'm currently working on Javascript (React, ReactNative), Java (Spring Boot),...
 
-- I'm currently learning Backend, Cloud Service (AWS, Azure,..), AI, IOS/Android App Development,...
-
-- I'm seeking a Front End developer (web/app) for collaboration since my expertise primarily focuses on API design. I have a lot of ideas brewing. If you're interested, please get in touch with me 😊
-
-- I'm looking for help with Computer Vision, NLP,... 
+- I'm currently learning Backend, Android App Development, Web Development, UI/UX...
 
 
 ## 🛠 Skills
-API design (NodeJS, Spring Boot), System design (monolithic, microservice,..), Message Broker (RabbitMQ), Database/Cache (PostgreSQL, MySQL, MongoDB, Redis,...), Linux (Deploying, Shell Scripting), Cloud (AWS), C# (WPF), Flutter, Python, C++,...
+API design (Spring Boot), System design (monolithic, microservice,..), Database/Cache (MySQL, MongoDB, Redis,...), C# (WPF), React, C++,...
 
 
 ## 🔗 Links
@@ -28,11 +16,7 @@ API design (NodeJS, Spring Boot), System design (monolithic, microservice,..), M
 
 
 ## 🚀 About Me
-I'm a software developer.
-
-Writing is a small hobby of mine, this is my personal blog: [GET TIPS 200 OK](https://gettips200ok.netlify.app/)
-
-And, please give me a star if any of my repositories have helped you. Thank you a lot 🥰
+Desigining is a small hobby of mine, I can use Adobe Photoshop and Illustrator to make F&B posters. Feel free to check my behance 🥰
 
 ![](https://komarev.com/ghpvc/?username=NguyenIsHere)
 
