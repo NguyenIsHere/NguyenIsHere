@@ -28,11 +28,4 @@ Desigining is a small hobby of mine, I can use Adobe Photoshop and Illustrator t
 
 ![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=NguyenIsHere&show_icons=true&hide_border=true&theme=onedark&count_private=true)   
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=NguyenIsHere" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NguyenIsHere&layout=compact&langs_count=8&card_width=320" />
-</a>
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenIsHere&theme=onedark" alt="mystreak"/>
