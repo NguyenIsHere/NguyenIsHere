@@ -20,12 +20,17 @@ Desigining is a small hobby of mine, I can use Adobe Photoshop and Illustrator t
 
 ![](https://komarev.com/ghpvc/?username=NguyenIsHere)
 
+## 🪴 Time Spent
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenIsHere&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## 🥑 Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
+## 🍀 Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&layout=compact&theme=onedark&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
 
+## 🌱 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=NguyenIsHere&show_icons=true&hide_border=true&theme=onedark&count_private=true)   
 
+## 🥦 My Streak
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenIsHere&theme=onedark" alt="mystreak"/>
