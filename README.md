@@ -6,7 +6,7 @@ My Profile
 [![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&theme=onedark)](https://github.com/NguyenIsHere/github-profile-trophy) -->
 
 
-# Hi, I'm Chabuuuu! 
+# Hi, I'm NguyenIsHere! 
 
 I'm currently interning for a NodeJS backend position, want to learn more about Devops .
 
@@ -34,14 +34,14 @@ Writing is a small hobby of mine, this is my personal blog: [GET TIPS 200 OK](ht
 
 And, please give me a star if any of my repositories have helped you. Thank you a lot 🥰
 
-![](https://komarev.com/ghpvc/?username=chabuuuu)
+![](https://komarev.com/ghpvc/?username=NguyenIsHere)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=chabuuuu&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenIsHere&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=chabuuuu&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chabuuuu&layout=compact&theme=onedark&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&layout=compact&theme=onedark&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
 
-![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=chabuuuu&show_icons=true&hide_border=true&theme=onedark&count_private=true)   
+![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=NguyenIsHere&show_icons=true&hide_border=true&theme=onedark&count_private=true)   
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chabuuuu&theme=onedark" alt="mystreak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenIsHere&theme=onedark" alt="mystreak"/>
