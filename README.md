@@ -7,16 +7,16 @@
 - I'm currently learning Backend, Android App Development, Web Development, UI/UX...
 
 
-## 🛠 Skills
+## ☘️ Skills
 API design (Spring Boot), System design (monolithic, microservice,..), Database/Cache (MySQL, MongoDB, Redis,...), C# (WPF), React, C++,...
 
 
-## 🔗 Links
+## 🫛 Links
  [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.nguyen.262468/)
 
 
-## 🚀 About Me
-Desigining is a small hobby of mine, I can use Adobe Photoshop and Illustrator to make F&B posters. Feel free to check my behance 🥰
+## 🌵 About Me
+Desigining is a small hobby of mine, I can use Adobe Photoshop and Illustrator to make F&B posters. Feel free to check my behance 💚
 
 ![](https://komarev.com/ghpvc/?username=NguyenIsHere)
 
