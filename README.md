@@ -1,7 +1,3 @@
-Dưới đây là phiên bản đã sửa với văn phong tự nhiên và vui nhộn hơn:  
-
----
-
 # Hi, I'm NguyenIsHere!  
 
 👋 Hey there! I'm Nguyen, a third-year Software Engineering student at the **University of Information Technology** in Ho Chi Minh City, Vietnam. I’m all about **UI/UX**, **API design**, and building systems that just *work*!  
