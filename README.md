@@ -8,7 +8,7 @@
 ## ☘️ Skills  
 - Crafting APIs with **Spring Boot**, tinkering with **system designs** (monolithic, microservices—gotta try them all!).  
 - Navigating databases like **MySQL**, **MongoDB**, and even sprinkling in some **Redis**.  
-- Coding in **C# (WPF)**, **React**, **C++**, and more.  
+- Coding in **Java**, **Javascript**, and more.  
 
 ## 🫛 Links  
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.nguyen.262468/)  
