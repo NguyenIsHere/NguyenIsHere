@@ -1,22 +1,24 @@
-# Hi, I'm NguyenIsHere! 
+Dưới đây là phiên bản đã sửa với văn phong tự nhiên và vui nhộn hơn:  
 
-👋 I'm Nguyen, a third-year Software Engineering student at the University of Information Technology in Ho Chi Minh City, Vietnam. I'm passionate about UI/UX, API design, and building efficient systems.
+---
 
-- I'm currently working on Javascript (React, ReactNative), Java (Spring Boot),...
+# Hi, I'm NguyenIsHere!  
 
-- I'm currently learning Backend, Android App Development, Web Development, UI/UX...
+👋 Hey there! I'm Nguyen, a third-year Software Engineering student at the **University of Information Technology** in Ho Chi Minh City, Vietnam. I’m all about **UI/UX**, **API design**, and building systems that just *work*!  
 
+- Currently diving into **JavaScript** (React, React Native) and **Java** (Spring Boot).  
+- Learning all the fun stuff: **Backend development**, **Android apps**, **Web dev**, and **UI/UX magic**!  
 
-## ☘️ Skills
-API design (Spring Boot), System design (monolithic, microservice,..), Database/Cache (MySQL, MongoDB, Redis,...), C# (WPF), React, C++,...
+## ☘️ Skills  
+- Crafting APIs with **Spring Boot**, tinkering with **system designs** (monolithic, microservices—gotta try them all!).  
+- Navigating databases like **MySQL**, **MongoDB**, and even sprinkling in some **Redis**.  
+- Coding in **C# (WPF)**, **React**, **C++**, and more.  
 
+## 🫛 Links  
+[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.nguyen.262468/)  
 
-## 🫛 Links
- [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.nguyen.262468/)
-
-
-## 🌵 About Me
-Desigining is a small hobby of mine, I can use Adobe Photoshop and Illustrator to make F&B posters. Feel free to check my behance 💚
+## 🌵 About Me  
+When I’m not coding, you’ll find me dabbling in **design**. I whip up cool F&B posters with **Photoshop** and **Illustrator** (yum 🍔🍹). Check out my Behance for a peek into my creative side! 💚  
 
 ![](https://komarev.com/ghpvc/?username=NguyenIsHere)
 
