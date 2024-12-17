@@ -14,7 +14,7 @@
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.nguyen.262468/)  
 
 ## 🌵 About Me  
-When I’m not coding, you’ll find me dabbling in **design**. I whip up cool F&B posters with **Photoshop** and **Illustrator** (yum 🍔🍹). Check out my Behance for a peek into my creative side! 💚  
+When I’m not coding, you’ll find me dabbling in **design**. I whip up cool F&B posters with **Photoshop** and **Illustrator**. Check out my Behance for a peek into my creative side! 💚  
 
 ![](https://komarev.com/ghpvc/?username=NguyenIsHere)
 
