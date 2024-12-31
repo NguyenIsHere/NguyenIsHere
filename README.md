@@ -1,34 +1,66 @@
-# Hi, I'm NguyenIsHere!  
+GitHub ReadMe Markdown itself doesn't directly support background images or resizing the stats graphs via height and width parameters. However, you can use third-party customization or adjust the URL parameters for services like `github-readme-stats` and `streak-stats` to influence the appearance. Here's an enhanced version with possible changes:
 
-👋 Hey there! I'm Nguyen, a third-year Software Engineering student at the **University of Information Technology** in Ho Chi Minh City, Vietnam. I’m all about **UI/UX**, **API design**, and building systems that just *work*!  
+---
 
-- Currently diving into **JavaScript** (React, React Native) and **Java** (Spring Boot).  
-- Learning all the fun stuff: **Backend development**, **Android apps**, **Web dev**, and **UI/UX magic**!  
+# Hi, I'm NguyenIsHere! 👋  
 
-## ☘️ Skills  
-- Crafting APIs with **Spring Boot**, tinkering with **system designs** (monolithic, microservices—gotta try them all!).  
-- Navigating databases like **MySQL**, **MongoDB**, and even sprinkling in some **Redis**.  
-- Coding in **Java**, **Javascript**, and more.  
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontColor=ffffff)
 
-## 🫛 Links  
+🚀 **Software Engineering Student | UI/UX Enthusiast | Code Wizard**  
+
+I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam. I thrive on creating seamless **UI/UX**, designing scalable **APIs**, and building systems that just *work*.  
+
+---
+
+## 🌟 Current Adventures  
+- 🔥 Mastering **JavaScript** (React, React Native) & **Java** (Spring Boot).  
+- 🌈 Exploring **backend development**, **Android apps**, **web magic**, and everything in between!  
+- 🌍 Passionate about **building systems**, from small-scale projects to robust architectures.  
+
+---
+
+## 🛠️ Tech Arsenal  
+- **Backend Magic:** Spring Boot, RESTful API design, and a pinch of microservices.  
+- **Database Whisperer:** MySQL, MongoDB, and Redis.  
+- **Programming Wizardry:** Java, JavaScript, and always learning more!  
+- **Creative Designer:** Photoshop & Illustrator for F&B posters and beyond.  
+
+---
+
+## 🌟 Let's Connect!  
 [![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.nguyen.262468/)  
+[![Behance](https://img.shields.io/badge/Behance-053EFF?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/)  
 
-## 🌵 About Me  
-When I’m not coding, you’ll find me dabbling in **design**. I whip up cool F&B posters with **Photoshop** and **Illustrator**. Check out my Behance for a peek into my creative side! 💚  
+---
 
-![](https://komarev.com/ghpvc/?username=NguyenIsHere)
+## 🎨 About Me  
+When I’m not writing code or architecting systems, I’m diving into the world of **design**. From creating sleek interfaces to designing eye-catching F&B posters, I love blending creativity with functionality. 🎨  
 
-## 🪴 Time Spent
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenIsHere&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+Fun fact: My hobbies include turning caffeine into code ☕ and procrastinating just the right amount to spark creativity!  
 
-## 🥑 Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+---
 
-## 🍀 Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&layout=compact&theme=onedark&exclude_repo=auto_checkonline_messenger---publish,Tool-dkhp-2023,UIT_TCCT)
+## 📈 GitHub Journey  
 
-## 🌱 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats-bqhz.vercel.app/api?username=NguyenIsHere&show_icons=true&hide_border=true&theme=onedark&count_private=true)   
+### 🌱 Time Spent  
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenIsHere&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)  
 
-## 🥦 My Streak
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenIsHere&theme=onedark" alt="mystreak"/>
+### 🏆 My Trophies  
+[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&theme=radical&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
+
+### 🔥 Streak Stats  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenIsHere&theme=radical&background=000000" alt="My GitHub Streak" width="80%"/>  
+
+### 🌍 Languages  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&layout=compact&theme=radical&langs_count=8)  
+
+### 💻 GitHub Stats  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenIsHere&show_icons=true&hide_border=true&theme=radical&count_private=true&card_width=450)  
+
+---
+
+✨ *Thanks for stopping by! Let’s build something amazing together.* 💻  
+
+---
+
+Feel free to tweak further!
