@@ -1,8 +1,4 @@
-GitHub ReadMe Markdown itself doesn't directly support background images or resizing the stats graphs via height and width parameters. However, you can use third-party customization or adjust the URL parameters for services like `github-readme-stats` and `streak-stats` to influence the appearance. Here's an enhanced version with possible changes:
-
----
-
-# Hi, I'm NguyenIsHere! 👋  
+# Hi, I'm Nguyen! 👋  
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontColor=ffffff)
 
