@@ -53,7 +53,7 @@ Fun fact: My hobbies include turning caffeine into code ☕ and procrastinating 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenIsHere&show_icons=true&hide_border=true&theme=dracula&count_private=true&card_width=450)  
 
 ### 💻 GitHub Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenIsHere&repo=Last-Mile-Delivery-Web-UI&title_color=#DD6387&icon_color=f9f9f9&text_color=#EFEFE9&bg_color=#282A36)](https://github.com/NguyenIsHere/Last-Mile-Delivery-Web-UI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenIsHere&repo=Last-Mile-Delivery-Web-UI&title_color=DD6387&icon_color=f9f9f9&text_color=EFEFE9&bg_color=282A36)](https://github.com/NguyenIsHere/Last-Mile-Delivery-Web-UI)
 
 ---
 
