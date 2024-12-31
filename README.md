@@ -1,6 +1,6 @@
 # Hi, I'm Nguyen! 👋  
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontColor=ffffff&fontFamily=Quicksand-Bold)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontColor=ffffff)
 
 🚀 **Software Engineering Student | UI/UX Enthusiast | Code Wizard**  
 
