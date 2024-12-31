@@ -38,19 +38,19 @@ Fun fact: My hobbies include turning caffeine into code ☕ and procrastinating 
 ## 📈 GitHub Journey  
 
 ### 🌱 Time Spent  
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenIsHere&layout=compact&hide_border=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)  
+[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenIsHere&layout=compact&hide_border=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 🏆 My Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&hide_border=true&theme=onedark&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&hide_border=true&theme=dracula&row=2&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ### 🔥 Streak Stats  
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenIsHere&theme=onedark" alt="My GitHub Streak"/>  
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenIsHere&theme=dracula" alt="My GitHub Streak"/>  
 
 ### 🌍 Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&layout=compact&hide_border=true&theme=onedark&langs_count=8)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&layout=compact&hide_border=true&theme=dracula&langs_count=8)  
 
 ### 💻 GitHub Stats  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenIsHere&show_icons=true&hide_border=true&theme=onedark&count_private=true&card_width=450)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NguyenIsHere&show_icons=true&hide_border=true&theme=dracula&count_private=true&card_width=450)  
 
 ---
 
