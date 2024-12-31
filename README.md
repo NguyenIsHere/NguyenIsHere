@@ -41,7 +41,7 @@ Fun fact: My hobbies include turning caffeine into code ☕ and procrastinating 
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenIsHere&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### 🏆 My Trophies  
-[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&theme=dracula&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=NguyenIsHere&theme=dracula&row=2&column=7&margin-w=16&margin-h=16)](https://github.com/ryo-ma/github-profile-trophy)  
 
 ### 🔥 Streak Stats  
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NguyenIsHere&theme=dracula" alt="My GitHub Streak"/>  
