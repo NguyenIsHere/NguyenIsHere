@@ -29,9 +29,7 @@ I'm Nguyen, a third-year **Software Engineering** student at the **University of
 ---
 
 ## 🎨 About Me  
-When I’m not writing code or architecting systems, I’m diving into the world of **design**. From creating sleek interfaces to designing eye-catching F&B posters, I love blending creativity with functionality. 🎨  
-
-Fun fact: My hobbies include turning caffeine into code ☕ and procrastinating just the right amount to spark creativity!  
+When I’m not writing code or architecting systems, I’m diving into the world of **design**. From creating sleek interfaces to designing eye-catching F&B posters, I love blending creativity with functionality. 
 
 ---
 
