@@ -9,7 +9,7 @@ I'm Nguyen, a third-year **Software Engineering** student at the **University of
 ---
 
 ## 🌟 Current Adventures  
-- Mastering **JavaScript** (React, React Native) & **Java** (Spring Boot).  
+- Mastering **JavaScript** (React, React Native, NodeJS) & **Java** (Spring Boot).  
 - Exploring **backend development**, **Android apps**, **web magic**, and everything in between!  
 - Passionate about **building systems**, from small-scale projects to robust architectures.  
 
