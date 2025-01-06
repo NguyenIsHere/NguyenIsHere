@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Welcome%20to%20My%20World!&fontSize=40&fontColor=ffffff)
 
-🏫 **Software Engineering Student | UI/UX Enthusiast | Code Wizard**  
+🏫 **Software Engineering Student**  
 
 I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam. I thrive on creating seamless **UI/UX**, designing scalable **APIs**, and building systems that just *work*.  
 
