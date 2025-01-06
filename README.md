@@ -52,11 +52,3 @@ When I’m not writing code or architecting systems, I’m diving into the world
 
 ### 📍 GitHub Pins
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenIsHere&repo=Last-Mile-Delivery-Web-UI&title_color=DD6387&icon_color=f9f9f9&text_color=EFEFE9&bg_color=282A36)](https://github.com/NguyenIsHere/Last-Mile-Delivery-Web-UI)
-
----
-
-✨ *Thanks for stopping by! Let’s build something amazing together.* 💻  
-
----
-
-Feel free to tweak further! 
