@@ -16,7 +16,7 @@ I'm Nguyen, a third-year **Software Engineering** student at the **University of
 ---
 
 ## 🛠️ Tech Arsenal  
-- **Backend Magic:** Spring Boot, RESTful API design, and a pinch of microservices.  
+- **Backend Magic:** Spring Boot, RESTful API design, gRPC API, Message Broker and a pinch of microservices.  
 - **Database Whisperer:** MySQL, MongoDB, and Redis.  
 - **Programming Wizardry:** Java, JavaScript, and always learning more!  
 - **Creative Designer:** Photoshop & Illustrator for F&B posters and beyond.  
