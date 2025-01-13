@@ -4,7 +4,7 @@
 
 🏫 **Software Engineering Student**  
 
-I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam. I thrive on creating seamless **UI/UX**, designing scalable **APIs**, and building systems that just *work*.  
+I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam. I thrive on creating seamless **UI/UX**, designing scalable **APIs**, and building systems that just *work* 🐧.  
 
 ---
 
