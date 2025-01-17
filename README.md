@@ -40,7 +40,3 @@ When I’m not writing code or architecting systems, I’m diving into the world
 
 ### 🌍 Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&layout=compact&theme=dracula&langs_count=8)  
-
-### 📍 GitHub Pins
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenIsHere&repo=Last-Mile-Delivery-Web-UI&title_color=DD6387&icon_color=f9f9f9&text_color=EFEFE9&bg_color=282A36)](https://github.com/NguyenIsHere/Last-Mile-Delivery-Web-UI)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=NguyenIsHere&repo=Last-Mile-Delivery-Mobile-UI&title_color=DD6387&icon_color=f9f9f9&text_color=EFEFE9&bg_color=282A36)](https://github.com/NguyenIsHere/Last-Mile-Delivery-Mobile-UI)
