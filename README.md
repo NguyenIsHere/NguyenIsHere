@@ -2,22 +2,16 @@
 
 **Software Engineering Student**  
 
-I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam. I thrive on creating seamless **UI/UX**, designing scalable **APIs**, and building systems that just *work*.  
+I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam.  
 
 ---
 
-## Current Adventures  
-- Mastering **JavaScript** (React, React Native, NodeJS) & **Java** (Spring Boot).  
-- Exploring **backend development**, **Android apps**, **web magic**, and everything in between!  
-- Passionate about **building systems**, from small-scale projects to robust architectures.  
-
----
-
-## Tech Arsenal  
-- **Backend Magic:** REST, gRPC, GraphQL, WebSocket, Kafka, Redis and a pinch of microservices.  
-- **Database Whisperer:** MySQL, MongoDB.  
-- **Programming Wizardry:** Java, JavaScript, and always learning more!  
-- **Creative Designer:** Photoshop & Illustrator for F&B posters and beyond.  
+## Tech Stack 
+- **Backend:** Java, Javascript, Typescript. 
+- **Frontend:** React, React Native.
+- **Database:** MySQL, MongoDB.
+- **Framework:** Spring Boot, Node.js. 
+- **Design:** Photoshop, Illustrator, Figma.  
 
 ---
 
