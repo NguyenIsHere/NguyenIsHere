@@ -6,7 +6,7 @@ I'm Nguyen, a third-year **Software Engineering** student at the **University of
 
 ## Tech Stack 
 - **Backend:** Java, Javascript, Typescript. 
-- **Frontend:** React, React Native, Tailwind.
+- **Frontend:** React, React Native.
 - **Database:** MySQL, MongoDB.
 - **Framework:** Spring Boot, Node.js. 
 - **Design:** Photoshop, Illustrator, Figma.  
