@@ -2,10 +2,10 @@
 
 **Software Engineering Student**  
 
-I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam.  
+I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam. I'm currently diving into AI and Blockchain projects  
 
 ## Tech Stack 
-- **Backend:** Java, Javascript, Typescript. 
+- **Backend:** Java, Javascript. 
 - **Frontend:** React, React Native.
 - **Database:** MySQL, MongoDB.
 - **Framework:** Spring Boot, Node.js. 
