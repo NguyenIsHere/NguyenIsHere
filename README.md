@@ -11,9 +11,6 @@ I'm Nguyen, a third-year **Software Engineering** student at the **University of
 - **Framework:** Spring Boot, Node.js. 
 - **Design:** Photoshop, Illustrator, Figma.  
 
-## Let's Connect!  
-[![facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/tran.nguyen.262468/)  
-
 ## GitHub Journey  
 
 ### Time Spent  
