@@ -7,7 +7,7 @@ I'm Nguyen, a third-year **Software Engineering** student at the **University of
 ## Tech Stack 
 - **Backend:** Java, Javascript. 
 - **Frontend:** React.
-- **Database:** MySQL, MongoDB.
+- **Database:** MongoDB.
 - **Framework:** Spring Boot, Node.js.  
 
 ## GitHub Journey  
