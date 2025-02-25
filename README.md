@@ -5,7 +5,7 @@
 I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam. 
 
 ## Tech Stack 
-- **Backend:** Java, Javascript. 
+- **Backend:** SpringBoot, NodeJS. 
 - **Frontend:** React.
 - **Database:** MongoDB.
 
