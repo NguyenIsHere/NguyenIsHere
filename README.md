@@ -15,4 +15,4 @@ I'm Nguyen, a third-year **Software Engineering** student at the **University of
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenIsHere&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&langs_count=6&hide_progress=true&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&langs_count=10&hide_progress=true&layout=compact)  
