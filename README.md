@@ -12,4 +12,4 @@ Currently learning SpringBoot and NodeJS. I'm also trying to integrate AI into m
 [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=NguyenIsHere&layout=compact)](https://github.com/anuraghazra/github-readme-stats)  
 
 ### Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&langs_count=20&hide_progress=true&layout=compact)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&langs_count=20&hide_progress=false&layout=compact)  
