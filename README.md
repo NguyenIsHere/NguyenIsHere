@@ -27,6 +27,6 @@ Currently learning SpringBoot and NodeJS. I'm also trying to integrate AI into m
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&langs_count=6&hide_progress=false&layout=compact)  
 
 ### Streaks
-https://github-readme-streak-stats-five-roan.vercel.app?user=NguyenIsHere
+[![GitHub Streak](https://streak-stats.demolab.com/?user=NguyenIsHere)](https://git.io/streak-stats)
 
 
