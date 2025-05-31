@@ -10,7 +10,7 @@ Currently learning SpringBoot and NodeJS. I'm also trying to integrate AI into m
 
 ### My Skills
 <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff"> 
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"> Add commentMore actions
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white"> 
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff"> 
 <img src="https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff"> 
