@@ -4,7 +4,7 @@
 
 I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam. 
 
-I am currently learning SpringBoot and NodeJS. I'm also trying to integrate AI into my projects.
+I am currently learning SpringBoot and Node.js and trying to integrate AI into my projects.
 
 ## GitHub Journey  
 
