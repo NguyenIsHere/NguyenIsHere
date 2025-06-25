@@ -6,6 +6,8 @@ I'm Nguyen, a third-year **Software Engineering** student at the **University of
 
 I am currently learning SpringBoot and Node.js and trying to integrate AI into my projects.
 
+P/s: I used the activity generator for the graph.
+
 ## GitHub Journey  
 
 ### Time Spent  
