@@ -16,7 +16,5 @@ P/s: I used the activity generator for the graph.
 ### Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&langs_count=6&hide_progress=false&layout=compact)  
 
-### Streaks
-[![GitHub Streak](https://streak-stats.demolab.com/?user=NguyenIsHere)](https://git.io/streak-stats)
 
 
