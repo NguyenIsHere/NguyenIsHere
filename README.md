@@ -1,4 +1,4 @@
-### <samp>&gt; Hi, I'm Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></samp>
+### <samp>&gt; Hi, I'm Nguyen</samp>
 
 ### <samp>Glad to see you here!</samp>
 
@@ -9,7 +9,7 @@
 **<samp>My GitHub Stats:</samp>**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&show_icons=true&hide_border=true&layout=compact&langs_count=10"/>
 </p>
 
 ---
