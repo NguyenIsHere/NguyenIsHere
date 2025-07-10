@@ -1,14 +1,25 @@
-# Hi, I'm Nguyen!  
+### <samp>&gt; Chào bạn, mình là Nguyen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"> </samp>
 
-**Software Engineering Student**  
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nguyen-uit-se)
+[![Portfolio Badge](https://img.shields.io/badge/Portfolio-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://ten-mien-portfolio-cua-ban.com)
+![](https://komarev.com/ghpvc/?username=NguyenIsHere&style=flat-square)
 
-I'm Nguyen, a third-year **Software Engineering** student at the **University of Information Technology**, Ho Chi Minh City, Vietnam. 
+### <samp>Rất vui được gặp bạn ở đây!</samp>
 
-I am currently learning SpringBoot and Node.js and trying to integrate AI into my projects.
+<samp>Mình là Nguyễn, sinh viên năm ba ngành **Kỹ thuật Phần mềm** tại **Trường Đại học Công nghệ Thông tin**, Đại học Quốc gia TP.HCM.</samp>
 
-P/s: I used the activity generator for the graph.
+<samp>Hiện tại, mình đang tìm hiểu về SpringBoot và Node.js, đồng thời cố gắng tích hợp AI vào các dự án của mình.</samp>
 
+<br>
 
+<br>
 
+**<samp>Thống kê GitHub của mình:**
 
+<p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NguyenIsHere&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&show_icons=true&hide_border=true&layout=compact&langs_count=10&theme=transparent"/>
+</p>
 
+---
+<samp>P/s: Mình đã dùng activity generator cho biểu đồ.</samp>
