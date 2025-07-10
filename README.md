@@ -10,10 +10,6 @@
 
 <samp>Hiện tại, mình đang tìm hiểu về SpringBoot và Node.js, đồng thời cố gắng tích hợp AI vào các dự án của mình.</samp>
 
-<br>
-
-<br>
-
 **<samp>Thống kê GitHub của mình:**
 
 <p>
