@@ -12,9 +12,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </p>
 
-<p>
-  <a href="https://ibb.co/84BzcL05"><img src="https://i.ibb.co/h1MXfJyW/Picture1.png" alt="Picture1" border="0"></a>
-</p>
-
 ---
 <samp>P/S: I used an activity generator for the graph.</samp>
