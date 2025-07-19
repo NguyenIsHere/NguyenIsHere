@@ -11,5 +11,9 @@
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </p>
+
+<p>
+  <img src="https://githubstat.onrender.com/api/card?username=NguyenIsHere" alt="My Custom GitHub Stats" />
+</p>
 ---
 <samp>P/S: I used an activity generator for the graph.</samp>
