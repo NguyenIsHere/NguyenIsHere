@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <img src="https://githubstat.onrender.com/api/card?username=NguyenIsHere" alt="My Custom GitHub Stats" />
+  <img src="github-stat-35l38mf7l-nguyens-projects-0e4b491b.vercel.app/api/card?username=NguyenIsHere" alt="My Custom GitHub Stats" />
 </p>
 ---
 <samp>P/S: I used an activity generator for the graph.</samp>
