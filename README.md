@@ -12,5 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NguyenIsHere&show_icons=true&hide_border=true&layout=compact&langs_count=6"/>
 </p>
 
+<P>
+  <img src="https://raw.githubusercontent.com/NguyenIsHere/TestImg/refs/heads/main/Picture1.png"/>
+</P>
+
 ---
 <samp>P/S: I used an activity generator for the graph.</samp>
